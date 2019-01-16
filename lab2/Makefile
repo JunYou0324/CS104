@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -g3 -Og -Wall --std=c++11
+CXXFLAGS = -g3 -O0 -Wall --std=c++11
 
 all: game_student1 game_student2
 
